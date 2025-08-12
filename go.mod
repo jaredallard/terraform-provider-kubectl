@@ -1,6 +1,6 @@
 module github.com/alekc/terraform-provider-kubectl
 
-go 1.21.0
+go 1.24
 
 require (
 	github.com/cenkalti/backoff/v4 v4.2.1
